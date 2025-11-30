@@ -2,7 +2,7 @@
 
 ## Mapping
 
-A useful set of mapping relationships in the Simple Knowledge Organization System (SKOS) are defined by the World Wide Web Consortium (W3C). The SKOS is used for linking knowledge organization systems. Concepts orgainized in different concept schemes can be linked to each other using SKOS mapping properties. https://www.w3.org/TR/skos-reference/#mapping https://www.w3.org/TR/2009/NOTE-skos-primer-20090818/
+A useful set of mapping relationships in the Simple Knowledge Organization System (SKOS) are defined by the World Wide Web Consortium (W3C). The SKOS is used for linking knowledge organization systems. Concepts orgainized in different concept schemes can be linked to each other using SKOS mapping properties. See https://www.w3.org/TR/skos-reference/#mapping and https://www.w3.org/TR/2009/NOTE-skos-primer-20090818/
 
 * skos:exactMatch - <A> skos:exactMatch <B> indicates an exact equivalence mapping link between <A> and <B>
 * skos:closeMatch - <A> skos:closeMatch <B> indicates a close equivalence mapping link between <A> and <B>
