@@ -6,8 +6,8 @@ A useful set of mapping relationships in the Simple Knowledge Organization Syste
 
 * skos:exactMatch - <A> skos:exactMatch <B> indicates an exact equivalence mapping link between <A> and <B>
 * skos:closeMatch - <A> skos:closeMatch <B> indicates a close equivalence mapping link between <A> and <B>
-* skos:broadMatch - <A> skos:broadMatch <B> indicates a hierarchical mapping link between <A> and <B> where <B> is broader than <A>. skos:broadMatch and skos:narrowMatch have an inverse relationship.
-* skos:narrowMatch - <B> skos:narrowMatch <A> indicates a hierarchical mapping link between <A> and <B> where <A> is narrower than <B>
+* skos:broadMatch - <A> skos:broadMatch <B> indicates a hierarchical mapping link between <A> and <B> where <B> is broader than <A> 
+* skos:narrowMatch - <B> skos:narrowMatch <A> indicates a hierarchical mapping link between <A> and <B> where <A> is narrower than <B> (skos:broadMatch and skos:narrowMatch have an inverse relationship)
 * skos:relatedMatch - <A> skos:relatedMatch <B> indicates an associated mapping link between <A> and <B> with no hierarchy indicated
 
 Prompt: map concepts to each other using SKOS mapping relationships
